@@ -1,0 +1,11 @@
+{
+ "resData":
+  [
+    {"resName":"Urban Tandoor","resType":"Indian Nepali Fusion","resLocation":"Gainesville","resPrice":"$$$","resRating":4.5,"resDesc":"At Urban Tandoor Gainesville, you will be able to take a delectable culinary tour of India and Nepal. Our specialities include menu items prepared in the traditional Indian clay oven (“tandoor”), grilled items, classic curries, and a wide variety of comfort delicacies. The tandoor-based and grilled items are light but highly flavorful, and the curry items provide a wide sampling of curries from North and South India. Menu items are selected meticulously to help our customers appreciate the art of bringing the ingredients and spices (also called “masala”) together.","resImage":"ut1.jpg","resSite":"https://utandoorgainesville.com/"},
+    {"resName":"Cactus Grill","resType":"Mexican","resLocation":"Manassas","resPrice":"$$","resRating":4.3,"resDesc":"We believe a great dinning experience begins with family. Here at Cactus grill,we are committed to provide you with a great customer service & great atmosphere with friendly staff. Our quality food is made with fresh products Every day to give that Mexican authentic taste.We hope the effort of our stuff reflect in the experience of our guests & make you feel right at home and part of our family.","resImage":"cg1.PNG","resSite":"https://cactusbargrill.com/"},
+    {"resName":"Juke Box","resType":"Classic American","resLocation":"Manassas","resPrice":"$","resRating":4.2,"resDesc":"","resImage":"","resSite":""},
+    {"resName":"","resType":"","resLocation":"","resPrice":"","resRating":"","resDesc":"","resImage":"","resSite":""},
+    {"resName":"","resType":"","resLocation":"","resPrice":"","resRating":"","resDesc":"","resImage":"","resSite":""}
+  ],
+  "Status":"OK"
+}
